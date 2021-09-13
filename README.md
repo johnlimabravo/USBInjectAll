@@ -1,2 +1,2 @@
 # USBInjectAll
-USBInjectAll by RehabMan
+USBInjectAll by RehabMan with updates!
